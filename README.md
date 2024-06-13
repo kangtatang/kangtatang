@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kangtatang
-- 👀 I’m interested in React JS, Vue JS, Go, Codeigniter, Laravel, Django, Node JS, and Express JS. 
-- 🌱 I’m currently working with React JS and Go.
+- 👀 I’m interested in React JS, Vue JS, Go, Codeigniter, Laravel, Django, Node JS, Express JS and PostgreSQL. 
+- 🌱 I’m currently working with React JS, Go and PostgreSQL.
 - 💞️ I’m looking to collaborate on a Project.
 - 📫 How to reach me you can contact me at kang.tatang@yahoo.co.id
 
