@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kangtatang
-- 👀 I’m interested in Codeigniter, Laravel, Django, Node JS, Flutter, react JS and Vue JS
-- 🌱 I’m currently learning Flutter
-- work with NEXT JS
-- 💞️ I’m looking to collaborate on Project
+- 👀 I’m interested in React JS, Vue JS, Go, Codeigniter, Laravel, Django, Node JS, and Express JS. 
+- 🌱 I’m currently working with React JS and Go.
+- 💞️ I’m looking to collaborate on a Project.
 - 📫 How to reach me you can contact me at kang.tatang@yahoo.co.id
 
 <!---
