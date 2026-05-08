@@ -1,45 +1,76 @@
-## 👋 Hello, I’m Kang Tatang
+## Hello, I’m Kang Tatang
 
-💻 Fullstack Developer | Backend Enthusiast | Open Source Supporter  
-🚀 Building robust and scalable apps with **React**, **Go**, and **PostgreSQL**  
-🧠 Passionate about clean code, great architecture, and making things that *work*
+**Fullstack Developer | Project Manager | Odoo Specialist**
 
----
+\- Building robust, scalable apps and leading technical teams to deliver high-impact solutions.
 
-### 🧩 Tech Stack & Interests
-- 💡 Frontend: React.js, Vue.js  
-- 🛠️ Backend: Golang, Laravel, CodeIgniter, Node.js, Django  
-- 🗃️ Database: PostgreSQL (my favorite), MySQL, SQLite  
-- ⚙️ DevOps & Tools: Docker, GitHub Actions, CI/CD workflows  
+\- Passionate about clean code, ERP ecosystems, and agentic workflows.
 
----
+* * *
 
-### 🌱 Current Focus
-- Building modular APIs with Go (Gin)    
-- Integrating FastAPI with Odoo 18 for custom HRIS/ESS solutions  
-- Exploring personal CLI assistant with AI and task integrations (ClickUp, Google Calendar, ChatGPT)
+### Tech Stack & Skills
 
----
+**Core Development**
 
-### 🤝 Let’s Collaborate!
-Looking to contribute or partner on meaningful projects — especially ones involving:
-- Internal tools & dashboards  
-- AI-assisted workflows  
-- Scalable API services  
-- SaaS products
+- 💡 **Frontend:** Next.js, Vue.js, React.js, Flutter (Mobile)
+    
+- 🛠️ **Backend:** Golang, Express.js, Laravel, Django, Python (Odoo Technical)
+    
+- 🗃️ **Database:** PostgreSQL (Favorite), MySQL, SQLite
+    
 
----
+**ERP & Specialized**
 
-📬 **Let’s connect!**  
-Email: [kang.tatang@yahoo.co.id](mailto:kang.tatang@yahoo.co.id)  
+- ⚙️ **Odoo Functional:** HRIS, Manufacturing, Accounting, & Supply Chain
+    
+- 🔧 **Odoo Technical:** Custom Module Development (v17/18/19), OCA Integration, API Connectors
+    
+- 🐳 **DevOps:** Docker, Docker Compose, CI/CD, GitHub Actions
+    
+
+**Leadership & Management**
+
+- 📊 **Project Management:** Agile/Scrum, ERP Implementation, Functional Specification Documentation (FSD)
+    
+- 🤖 **AI-Assisted Coding:** Expert in Agentic IDEs (Cursor, Windsurf, Cline) for rapid development
+    
+
+* * *
+
+### Current Focus
+
+- **Odoo Ecosystem:** Developing custom Donation & Affiliate modules on Odoo 19 CE.
+    
+- **Modern Web:** Architecting RESTful services using Golang and Next.js.
+    
+- **Mobile:** Building cross-platform experiences with Flutter.
+    
+- **Automation:** Integrating FastAPI with Odoo for seamless HRIS/ESS solutions.
+    
+
+* * *
+
+### Let’s Collaborate!
+
+I’m open to collaborating on:
+
+- **ERP Implementations:** Technical or Functional Odoo consulting.
+    
+- **Fullstack Projects:** Scalable API services using Go or Express.js.
+    
+- **Internal Tools:** Dashboards, CRM, and AI-assisted workflow automation.
+    
+- **Open Source:** Contributing to community-driven modules (OCA).
+    
+
+* * *
+
+📬 **Let’s connect!**
+
+Email: [kang.tatang@yahoo.co.id](mailto:kang.tatang@yahoo.co.id)
+
 GitHub: [@kangtatang](https://github.com/kangtatang)
 
----
+* * *
 
-_“Code is poetry. Let’s write a symphony.”_
-
-
-<!---
-kangtatang/kangtatang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*“Code is poetry. Let’s write a symphony.”*
